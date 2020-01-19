@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "813916952913",
+    "firebase_url": "https://here-app-a9017.firebaseio.com",
+    "project_id": "here-app-a9017",
+    "storage_bucket": "here-app-a9017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813916952913:android:d9da7521f72288227edb70",
+        "android_client_info": {
+          "package_name": "com.ashish.hereapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813916952913-3fnsd52dlemp3f657fj0n3guat9o0gtt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashish.hereapp",
+            "certificate_hash": "038934bc0b7c592f292087b07d3bb661f630f6d0"
+          }
+        },
+        {
+          "client_id": "813916952913-25a6rqtvil4ha8ibmflnh0d8t22p5vfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI4dZv3q35E8S2UYAndvqtIb2SpagAAmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813916952913-25a6rqtvil4ha8ibmflnh0d8t22p5vfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
